@@ -48,22 +48,21 @@ This is a reference application showcasing the integration of [CometChat's React
 
 - Ensure that you have the React Native development environment set up.
   - Follow instructions for your environment at https://reactnative.dev/docs/environment-setup
-- Sign up for a [CometChat](https://app.cometchat.com/) account to get your app credentials: _`App ID`_, _`Region`_, and _`Auth Key`_
 
 ## Installation
 
 1. Clone the repository:
    - Using HTTPS
      ```
-     git clone https://github.com/cometchat/cometchat-sample-app-react-native.git
+     git clone 
      ```
    - Using SSH
      ```
-     git clone git@github.com:cometchat/cometchat-sample-app-react-native.git
+     git clone
      ```
 2. Navigate to the cloned directory:
    ```
-   cd cometchat-sample-app-react-native
+   cd 
    ```
 3. Install dependencies:
    ```
@@ -74,8 +73,7 @@ This is a reference application showcasing the integration of [CometChat's React
      cd ios
      pod install
    ```
-5. Enter your CometChat _`App ID`_, _`Region`_, and _`Auth Key`_ in the [AppConstants.ts](https://github.com/cometchat/cometchat-sample-app-react-native/blob/v4/AppConstants.ts) file:
-   https://github.com/cometchat/cometchat-sample-app-react-native/blob/f7d4945414da14405f5dece975c8cf43926b01c7/AppConstants.ts#L1-L5
+5. Enter your CometChat _`App ID`_, _`Region`_, and _`Auth Key`_ in the [AppConstants.ts](https://github.com/cometchat/cometchat-sample-app-react-native/blob/v4/AppConstants.
 6. Run the app on a device or emulator from the repo root.
    ```sh
    npm start
@@ -83,6 +81,3 @@ This is a reference application showcasing the integration of [CometChat's React
    npm run ios
    ```
 
-## Help and Support
-
-For issues running the project or integrating with our UI Kits, consult our [documentation](https://www.cometchat.com/docs/react-native-uikit/integration) or create a [support ticket](https://help.cometchat.com/hc/en-us) or seek real-time support via the [CometChat Dashboard](http://app.cometchat.com/).
